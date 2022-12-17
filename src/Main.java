@@ -153,9 +153,9 @@ public class Main {
         //Task 4.1
 
         Car3 car31 = new Car3("Lada Grande", 1.7,  null, 2015, "Россия");
-        Car3 car32 = new Car3("Audi A8 50 L TDI quattro", 3.0,  "чёрный", 2020, "Германия");
-        Car3 car33 = new Car3("BMW Z8", 3.0,  "чёрный", 0, null);
-        Car3 car34 = new Car3(null, 2.4,  "красный", 2018, "Южная Корея");
+        Car3 car32 = new Car3("Audi A8 50 L TDI quattro", 3.0,  null, -3, "Германия");
+        Car3 car33 = new Car3("BMW Z8", 3.0,  "чёрный", 2021, "Германия");
+        Car3 car34 = new Car3(null, 2.4,  "красный", 0, "Южная Корея");
         Car3 car35 = new Car3("Hyundai Avante", 1.6,  "оранжевый", 2016, "Южная Корея");
 
         car31.requestInformation3();
