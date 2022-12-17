@@ -150,7 +150,7 @@ public class Main {
 
         System.out.println();
 
-        //Task 4.1
+        //Task 3.2
 
         Car3 car31 = new Car3("Lada Grande", 1.7,  null, 2015, "Россия");
         Car3 car32 = new Car3("Audi A8 50 L TDI quattro", 3.0,  null, -3, "Германия");
